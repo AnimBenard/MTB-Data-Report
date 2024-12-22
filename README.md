@@ -1,4 +1,3 @@
-Here’s a description for your TB Data Management and Reporting application:  
 
 ---
 
