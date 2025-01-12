@@ -60,4 +60,5 @@ The **TB Data Management and Reporting System** addresses the critical challenge
 Whether you are managing a small clinic or a large-scale TB control program, this application is a reliable and effective tool to combat TB and improve patient outcomes.  
 
 ---
+Link for video preview: https://drive.google.com/file/d/18c_FINCnDWj2VNxilIwnyNGwdp9GCZH-/view?usp=drive_link
 For more info about database design and installation, contact me on: animbenard@gmail.com
